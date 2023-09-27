@@ -50,6 +50,8 @@ $sentence2 = "mon premier Pokemon est " . $firstPokemon . ". Où est la premièr
 </head>
 <body>
 
+    <?php include 'basics-2.php' ?>
+
     <?php include 'header.php' ?>
 
     <?php
